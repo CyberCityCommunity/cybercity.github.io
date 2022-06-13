@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CyberCity</title>
-    <link>cybercity.github.io/posts/</link>
+    <link>/posts/</link>
     <description>CyberCity (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jun 2022 19:45:36 +0200</lastBuildDate>
     
-    <atom:link href="cybercity.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Helloworld</title>
-      <link>cybercity.github.io/posts/helloworld/</link>
+      <link>/posts/helloworld/</link>
       <pubDate>Mon, 13 Jun 2022 19:45:36 +0200</pubDate>
       
-      <guid>cybercity.github.io/posts/helloworld/</guid>
+      <guid>/posts/helloworld/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34; &gt;Hello World!
 &lt;span&gt;
     &lt;a href=&#34;#hello-world&#34;&gt;
